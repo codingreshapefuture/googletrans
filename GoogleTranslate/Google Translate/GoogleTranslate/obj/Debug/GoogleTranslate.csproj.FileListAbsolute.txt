@@ -1,0 +1,54 @@
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.AssemblyReference.cache
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Form1.resources
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Properties.Resources.resources
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.GenerateResource.cache
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.AssemblyReference.cache
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Form1.resources
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Properties.Resources.resources
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.GenerateResource.cache
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+C:\Users\Win 8.1 Version 2\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.AssemblyReference.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.Form1.resources
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.Properties.Resources.resources
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.GenerateResource.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.AssemblyReference.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.Form1.resources
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.Properties.Resources.resources
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.GenerateResource.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+C:\Users\Win 8.1 Version 2\Desktop\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.AssemblyReference.cache
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.SuggestedBindingRedirects.cache
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.Form1.resources
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.Properties.Resources.resources
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.GenerateResource.cache
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.CoreCompileInputs.cache
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+C:\Project C#\GoogleTranslate\Google Translate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb
